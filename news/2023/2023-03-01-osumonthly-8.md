@@ -19,6 +19,7 @@ With the semantics out of the way, let's dive on in and see what February scroun
 - [Table of contents](#table-of-contents)
 - [What's new in osu!(lazer)](#whats-new-in-osulazer)
 - [Community recap](#community-recap)
+  - [LeFeraille's animation](#leferailles-animation)
   - [Notable osu! plays of the month](#notable-osu-plays-of-the-month)
   - [Notable osu!taiko plays of the month](#notable-osutaiko-plays-of-the-month)
   - [Notable osu!catch plays of the month](#notable-osucatch-plays-of-the-month)
@@ -53,11 +54,23 @@ With the semantics out of the way, let's dive on in and see what February scroun
 ... more content
 -->
 
-{{CONTENT}}
+### LeFeraille's animation
+
+A wonderful discovery this month is [LeFeraille's youtube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA) and its great and funny animations. In particular this month, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) of 4 minutes featuring Pippi and Default, two friends playing osu! and discussing tournaments, all simmering with references and jokes. So if you have four minutes to dedicate to this little creator, don't hesitate to go and have a look at what he does!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FpyaQE_J548" allowfullscreen></iframe>
 
 ### Notable osu! plays of the month
 
-{{CONTENT}}
+Notable osu! plays of the month
+
+One milestone? Two milestones? How about three.
+
+Once again, [mrekk](https://osu.ppy.sh/users/7562902) had surprised all of us with what he could do, as he FC'd the top difficulty of [Mou Ii kai?](https://osu.ppy.sh/beatmapsets/807850#osu/1695382), something that many top players attempted to do, and failed, with the closest attempt before was [aetrna's](https://osu.ppy.sh/users/6447454) 1 miss attempt from 2 and half years ago, and [Rimuru's](https://osu.ppy.sh/users/9269034) 2 misses this very same month, making it a good -- an endgame score that was set only in the beginning of the year with it's 10 stars difficulty when using HDDT and 288 BPM streams scattered across the map and finally a huge jump to end the map, you can witness it for yourself here below.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u5RLfYX_KCw" frameborder="0" allowfullscreen></iframe>
+
+However, that's only the tip of the iceberg. Although we have had many technical 10 star fcs, mrekk is the first player to have ever achieve the 10 star difficulty perfect full combo medal without a touch device.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u5RLfYX_KCw" frameborder="0" allowfullscreen></iframe>
 
@@ -85,7 +98,24 @@ Most of the greatest scores in the game happen in singleplayer, where a player c
 
 ### Notable osu!mania plays of the month
 
-{{CONTENT}}
+Much stuff has happened in osu!mania in the last month, but here are some of the most exceptional highlights:
+
+· Back in early 2019, one of the most legendary scores in 4k was set by [wonder5193](https://osu.ppy.sh/users/8474029) - an [SS on the top difficulty in AiAe](https://www.youtube.com/watch?v=bmlDSgNBAhM). This has stood unchallenged at the top of the leaderboard for 4 years... until now. This February [Myuka](https://osu.ppy.sh/users/10072733) popped off and grabbed the #1 on the leaderboard - even more impressively, he did it through sheer force of ratio as he missed the 100% by 3 200s. How can someone achieve such level of precision over the relentless quadstreams and longjacks? See for yourself:
+
+<iframe width="100%" height="315" src="https://www.youtube
+com/embed/0ik42pbJaCU" frameborder="0" allowfullscreen></iframe>
+
+· This start of year has been spectacular for difficult maps in the ranked section, both in 4k and 7k - but above all of them stands [tyrcs' BEYOND](https://osu.ppy.sh/beatmapsets/1873425#mania/3855004). This is without a doubt the new hardest ranked mania map, replacing [STRONG 280](https://osu.ppy.sh/beatmapsets/1741321#mania/3559824), also by [tyrcs](https://osu.ppy.sh/users/13026904) (what a guy). With only 7 passes after a month, the 276 BPM unrelentingly dense chordstreams of the top difficulty are a challenge unplayable by (almost) anyone, resulting in a short leaderboard topped by none other than [- Kura -](https://osu.ppy.sh/users/11420405), who achieved an insane 810k S rank on this behemoth. Just watch below - but don't expect to understand much:
+
+<iframe width="100%" height="315" src="https://www.youtube
+com/embed/GHKBgsWN-lI" frameborder="0" allowfullscreen></iframe>
+
+Not only that, but [- Kura -](https://osu.ppy.sh/users/11420405) also achieved the new mania pp record, getting [1474pp on Last Wish](https://osu.ppy.sh/scores/mania/527179450) - and he did it mere minutes after a historic win over South Korea in the MWC Semifinals. Truly extraterrestrial.
+
+Much more has happened in this short month, but just to shoutout a couple more plays:
+
+· [cheewee10](https://osu.ppy.sh/users/4477497) obtained a [992k FC on Leeju's SYSTEM ERROR](https://osu.ppy.sh/scores/mania/527961436), the controversially ranked 10* whose original version served as the MWC Semifinals Tiebreaker.
+· [CrewK](https://osu.ppy.sh/users/11488604) achieved a mad [997k SS on Ciel's true DJ MAG](https://osu.ppy.sh/scores/mania/529143933), another instance of him absolutely destroying one of the hardest SV charts in the game. This one is worth seeing, even if you don't follow mania - you can find the video from his perspective [here]( PLACEHOLDER as he'll surely upload it very soon ). Special attention to the **extra special** skin!
 
 ## Mapping Recap
 

@@ -6,7 +6,7 @@ date: 2023-03-01 19:00:00 +0000
 
 Need a valentine? osu!monthly's got you!
 
-![]({{BANNER the news post banner e.g. /wiki/shared/news/2023-02-10-osumonthly-7/banner.jpg}})
+![](/wiki/shared/news/2023-03-02-osumonthly-8/banner.jpg)
 
 Welcome to the **8th** edition of osu!monthly! It's February, the month of love, and what better way to express our love for osu! and its community than by procuring everything you may want to see? Unless, of course, you're one of those people who express their love for osu! by playing it for over 12 hours straight, in which case, carry on... no judgement here.
 
@@ -56,7 +56,7 @@ With the semantics out of the way, let's dive on in and see what February scroun
 
 ### LeFeraille's animation
 
-A wonderful discovery this month is [LeFeraille's youtube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA) and its great and funny animations. In particular this month, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) of 4 minutes featuring Pippi and Default, two friends playing osu! and discussing tournaments, all simmering with references and jokes. So if you have four minutes to dedicate to this little creator, don't hesitate to go and have a look at what he does!
+A wonderful discovery this month is [LeFeraille's YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and it's great and funny animations. In particular this month, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) of 4 minutes featuring Pippi and Default, two friends playing osu! and discussing tournaments, all simmering with references and jokes. So if you have four minutes to dedicate to this little creator, don't hesitate to go and have a look at what he does!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FpyaQE_J548" allowfullscreen></iframe>
 
@@ -179,7 +179,9 @@ Check out all the skins highlighted with this showcase video below:
 
 ## Did you know?
 
-{{CONTENT}}
+In the earliest osu! days, a separate program was used to update osu! called "osume". Alongside the fact you downloaded updates from there, skins that were deemed finished and of good quality were also added to it, making them available to download via the utility.
+
+![](/wiki/shared/news/2023-03-02-osumonthly-8/did-you-know-feb23.png)
 
 ## Monthly community quiz
 

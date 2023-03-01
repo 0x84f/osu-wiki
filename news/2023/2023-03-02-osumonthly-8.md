@@ -89,6 +89,24 @@ If you're curious, that was [Kawa](https://osu.ppy.sh/users/4588894)'s storyboar
 ... more content
 -->
 
+### osu! community meeting
+
+Another one of those [osu! community meetings](/wiki/Community/osu!_community_meetings) happened last month, almost a year since the last one. It was [announced on Twitter by peppy](https://twitter.com/ppy/status/1621374579901075459) to be held as a panel of experienced people in various community positions, including some top players, tournament organisers and people involved in osu! development.
+
+While the next client version is most definitely in a usable state for most people, many aren't switching over due to a variety of reasons. Game mechanics are different, performance point leaderboards haven't stabilised and some features in osu!(stable) are missing.
+
+This meeting was about osu!(lazer) game mechanics and balance, mainly covering the following topics:
+
+- Score integration across osu!(stable) and osu!(lazer)
+- Leaderboard resets
+- Mod multipliers, especially concerning speed/rate adjustment
+- Game mechanics
+- Tournaments in osu!(lazer)
+
+View the [summary document](https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE) or the [full VOD](https://www.youtube.com/watch?v=idmI03A8jR8) to get in on the conversation! (Literally. Go have a look at the [discussion post](https://osu.ppy.sh/community/forums/topics/1721243) in the forums.)
+
+More meetings to make decisions about game mechanics in osu!(lazer) are expected. Follow [@ppy on Twitter](https://twitter.com/ppy) for updates.
+
 ### AxerBot's update
 
 As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by [Hivie](https://osu.ppy.sh/users/14102976) and [Sebola](https://osu.ppy.sh/users/15821708), and which received an important update this month that will please numerous mappers, as it now allows creating and displaying an audio file's spectrogram and fix any potential bloating issues, in addition to all its already existing features such as the ability to view many mapping and playing stats or having rich integration with the [BN website](https://bn.mappersguild.com/). These kinds of bots will only impress us with new features making life easier from day to day, and we hope to see new ones soon!

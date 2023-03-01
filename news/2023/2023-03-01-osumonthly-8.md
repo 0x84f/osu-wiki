@@ -42,7 +42,40 @@ With the semantics out of the way, let's dive on in and see what February scroun
 
 ## What's new in osu!(lazer)
 
-{{CONTENT}}
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/iLThnjc7Yfg" frameborder="0" allowfullscreen></iframe>
+
+New in the month of February:
+
+- **New "Accuracy Challenge" mod.** It's like Sudden Death or Perfect, but you just have to stay above a certain accuracy threshold (of your choosing).
+- **Multitouch tapping support for the osu! game mode.** Drag with one hand, and tap with the other. With this, all 4 game modes have proper touch support.
+- **Ability to snap hit objects to slider tails and repeats in the editor.**
+- **osu!taiko touch control scheme selection.** If you are an osu!taiko player, you probably know what the terms KDDK, DDKK and KKDD mean. If you play using touch controls, you can now switch between these control schemes in the game settings.
+- **Font changing for skin text elements.** This is only for fonts built into the game for now.
+- **Ability to disable background blur at song select.** Some people just don't like it.
+
+Check out the [full changelog complete with images and comparison videos](https://osu.ppy.sh/home/changelog/lazer/2023.207.0).
+
+<!-- below are the changes for the upcoming release that may roll out on March 2. delete and cover in next month's post if it doesn't release in time. -->
+
+There was also an update that came out *earlier today*. While perhaps technically late for February, we decided to cover it anyway as an exception. Have a look at the latest [osu!(lazer) update video]({{UPDATE_VIDEO_LINK}}) or view the [full changelog]({{CHANGELOG_LINK}}).
+
+- **Skin editor clipboard.** You can now copy-paste skin elements across skins and game screens. This only works on UI components (stuff you can select and move around), so no copy-pasting hit circles or cursors just yet.
+- **Separate skin layout editing for each game mode.** Got your stats showing neatly right beside the osu!mania playfield, but it looks like jank when you switch to osu!taiko? Not a problem anymore.
+- **Skin element depth reordering.** Control which elements display in front of others.
+- **Profile display for tournament banners.** The things you can buy to show support for teams in osu! World Cups, they now show up in-game too!
+- ...Many more tiny UI adjustments and improvements.
+
+As always, there are a bunch of improvements made each release, but these were probably the few showstoppers you should know about.
+
+By the way, did you know that you can enable storyboards on the main menu in osu!(lazer) with osu!supporter?
+
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://assets.ppy.sh/media/osu-monthly/2023-02/feature-showcase-feb23.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+If you're curious, that was [Kawa](https://osu.ppy.sh/users/4588894)'s storyboard for the [nik's winter cup 2022](https://osu.ppy.sh/community/forums/topics/1473140) Grand Finals tiebreaker beatmap [Sephid - OVERPROTECTION](https://osu.ppy.sh/beatmapsets/1703896).
 
 ## Community recap
 

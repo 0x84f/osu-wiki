@@ -1,43 +1,38 @@
 ---
 layout: post
 title: "osu!monthly, February 2023"
-date: 2023-03-01 19:00:00 +0000
+date: 2023-03-02 19:00:00 +0000
 ---
 
 Need a valentine? osu!monthly's got you!
 
 ![](/wiki/shared/news/2023-03-02-osumonthly-8/banner.jpg)
 
-Welcome to the **8th** edition of osu!monthly! It's February, the month of love, and what better way to express our love for osu! and its community than by procuring everything you may want to see? Unless, of course, you're one of those people who express their love for osu! by playing it for over 12 hours straight, in which case, carry on... no judgement here.
+Welcome to the **8th** edition of osu!monthly! Last month was February, the month of love, and what better way to express our love for osu! and its community than by procuring everything you may want to see? Unless, of course, you're one of those people who express their love for osu! by playing it for over 12 hours straight, in which case, carry on... we're not judging.
 
-As always, the osu!monthly team tries to find content that you all would like to read and are generally interested about; however, we can't always catch everything, so if you want to see something in the monthly news or want to voice an opinion, please do not hesitate to let us know in the [osu!dev Discord server](https://discord.gg/ppy).
+As always, the osu!monthly team tries to find content that you all would like to read and are generally interested about. BUT, we can't always catch everything, so if you want to see something in the monthly news or want to voice an opinion, please do not hesitate to let us know in the [osu!dev Discord server](https://discord.gg/ppy).
 
 With the semantics out of the way, let's dive on in and see what February scrounged up for us!
 
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
-- [What's new in osu!(lazer)](#whats-new-in-osulazer)
+- [What's new in osu!(lazer)](#what's-new-in-osu!(lazer))
 - [Community recap](#community-recap)
-  - [LeFeraille's animation](#leferailles-animation)
-  - [Notable osu! plays of the month](#notable-osu-plays-of-the-month)
-  - [Notable osu!taiko plays of the month](#notable-osutaiko-plays-of-the-month)
-  - [Notable osu!catch plays of the month](#notable-osucatch-plays-of-the-month)
-  - [Notable osu!mania plays of the month](#notable-osumania-plays-of-the-month)
-- [Mapping Recap](#mapping-recap)
-  - [Mapping News](#mapping-news)
-    - [Community Choice 2022: Results](#community-choice-2022-results)
-    - [Community Contributors 2022: Elite Nominators](#community-contributors-2022-elite-nominators)
-    - [Community Mentorship Program Spring 2023](#community-mentorship-program-spring-2023)
-    - [New NAT additions for osu!std](#new-nat-additions-for-osustd)
-    - [Twin Trials Contest](#twin-trials-contest)
-  - [Mappings Highlight](#mappings-highlight)
+  - [Notable osu! plays of the month](#notable-osu!-plays-of-the-month)
+  - [Notable osu!taiko plays of the month](#notable-osu!taiko-plays-of-the-month)
+  - [Notable osu!catch plays of the month](#notable-osu!catch-plays-of-the-month)
+  - [Notable osu!mania plays of the month](#notable-osu!mania-plays-of-the-month)
+- [Mapping recap](#mapping-recap)
+  - [Mapping highlight](#mapping-highlight)
+  - [Mapper highlight](#mapper-highlight)
+  - [Mapping around the community](#mapping-around-the-community)
 - [Skinning recap](#skinning-recap)
   - [Skinning news](#skinning-news)
   - [Featured skins of the month](#featured-skins-of-the-month)
-- [Did you know?](#did-you-know)
+- [Did you know?](#did-you-know?)
 - [Monthly community quiz](#monthly-community-quiz)
-- [Things to look out for in March](#things-to-look-out-for-in-march)
+- [Things to look out for in {{MONTH}}](#things-to-look-out-for-in-march)
 - [End word](#end-word)
 
 ## What's new in osu!(lazer)
@@ -55,7 +50,7 @@ New in the month of February:
 
 Check out the [full changelog complete with images and comparison videos](https://osu.ppy.sh/home/changelog/lazer/2023.207.0).
 
-<!-- below are the changes for the upcoming release that may roll out on March 2. delete and cover in next month's post if it doesn't release in time. -->
+<!-- {{DELETE_COMMENT}} below are the changes for the upcoming release that may roll out on March 2. delete and cover in next month's post if it doesn't release in time. -->
 
 There was also an update that came out *earlier today*. While perhaps technically late for February, we decided to cover it anyway as an exception. Have a look at the latest [osu!(lazer) update video]({{UPDATE_VIDEO_LINK}}) or view the [full changelog]({{CHANGELOG_LINK}}).
 
@@ -68,6 +63,8 @@ There was also an update that came out *earlier today*. While perhaps technicall
 As always, there are a bunch of improvements made each release, but these were probably the few showstoppers you should know about.
 
 By the way, did you know that you can enable storyboards on the main menu in osu!(lazer) with osu!supporter?
+
+<!-- {{DELETE_COMMENT}} make sure below video is uploaded -->
 
 <div align="center">
     <video width="100%" controls>
@@ -87,13 +84,33 @@ If you're curious, that was [Kawa](https://osu.ppy.sh/users/4588894)'s storyboar
 ... more content
 -->
 
+### osu! community meeting
+
+Another one of those [osu! community meetings](/wiki/Community/osu!_community_meetings) happened last month, almost a year since the last one. It was [announced on Twitter by peppy](https://twitter.com/ppy/status/1621374579901075459) to be held as a panel of experienced people in various community positions, including some top players, tournament organisers and people involved in osu! development.
+
+While the next client version is most definitely in a usable state for most people, many aren't switching over due to a variety of reasons. Game mechanics are different, performance point leaderboards haven't stabilised and some features in osu!(stable) are missing.
+
+This meeting was about osu!(lazer) game mechanics and balance, mainly covering the following topics:
+
+- Score integration across osu!(stable) and osu!(lazer)
+- Leaderboard resets
+- Mod multipliers, especially concerning speed/rate adjustment
+- Game mechanics
+- Tournaments in osu!(lazer)
+
+View the [summary document](https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE) or the [full VOD](https://www.youtube.com/watch?v=idmI03A8jR8) to get in on the conversation! (Literally. Go have a look at the [discussion post](https://osu.ppy.sh/community/forums/topics/1721243) in the forums.)
+
+More meetings to make decisions about game mechanics in osu!(lazer) are expected. Follow [@ppy on Twitter](https://twitter.com/ppy) for updates.
+
 ### AxerBot's update
 
-As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by [Hivie](https://osu.ppy.sh/users/14102976) and [Sebola](https://osu.ppy.sh/users/15821708), and which received an important update this month that will please numerous mappers, as it now allows creating and displaying an audio file's spectrogram and fix any potential bloating issues, in addition to all its already existing features such as the ability to view many mapping and playing stats or having rich integration with the [BN website](https://bn.mappersguild.com/). These kinds of bots will only impress us with new features making life easier from day to day, and we hope to see new ones soon!
+As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by [Hivie](https://osu.ppy.sh/users/14102976) and [Sebola](https://osu.ppy.sh/users/15821708), and which received an important update this month that will please numerous mappers
 
-### LeFeraille's animation
+The bot now allows creating and displaying an audio file's spectrogram and fix any potential bloating issues, in addition to all its already existing features such as the ability to view many mapping and playing stats or having rich integration with the [BN website](https://bn.mappersguild.com/). These kinds of bots will only impress us with new features making life easier from day to day, and we hope to see new ones soon!
 
-A wonderful discovery this month is [LeFeraille's YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and it's great and funny animations. In particular this month, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) of 4 minutes featuring Pippi and Default, two friends playing osu! and discussing tournaments, all simmering with references and jokes. So if you have four minutes to dedicate to this little creator, don't hesitate to go and have a look at what he does!
+### LeFeraille's osu! animation
+
+A wonderful discovery this month is [LeFeraille's YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and its amazing and funny animations. This month in particular, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) features Pippi and Default, two friends playing osu! and discussing tournaments while throwing references and jokes left and right. If you have four minutes to dedicate to this little creator, don't hesitate to go and have a look!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FpyaQE_J548" allowfullscreen></iframe>
 
@@ -103,23 +120,27 @@ Notable osu! plays of the month
 
 One milestone? Two milestones? How about three.
 
-Once again, [mrekk](https://osu.ppy.sh/users/7562902) had surprised all of us with what he could do, as he FC'd the top difficulty of [Mou Ii kai?](https://osu.ppy.sh/beatmapsets/807850#osu/1695382), something that many top players attempted to do, and failed, with the closest attempt before was [aetrna's](https://osu.ppy.sh/users/6447454) 1 miss attempt from 2 and half years ago, and [Rimuru's](https://osu.ppy.sh/users/9269034) 2 misses this very same month, making it a good -- an endgame score that was set only in the beginning of the year with it's 10 stars difficulty when using HDDT and 288 BPM streams scattered across the map and finally a huge jump to end the map, you can witness it for yourself here below.
+Once again, [mrekk](https://osu.ppy.sh/users/7562902) has surprised all of us with what he could do, as he [FC'd the top difficulty](https://osu.ppy.sh/scores/osu/4382393442) of [Nevo](https://osu.ppy.sh/users/7451883)'s rendition of [THE ORAL CIGARETTES - Mou Ii kai?](https://osu.ppy.sh/beatmapsets/807850#osu/1695382), something that many top players have attempted to do, and failed, with the closest attempts before being [aetrna](https://osu.ppy.sh/users/6447454)'s 1-miss attempt from 2.5 years ago and [Rimuru](https://osu.ppy.sh/users/9269034)'s 2 misses the very same month, making mrekk's play a good endgame score with its 10 stars of difficulty induced by 288 BPM streams with HDDT scattered across the map, as well as the huge jumps at the end.
+
+You can witness it for yourself below:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u5RLfYX_KCw" frameborder="0" allowfullscreen></iframe>
 
-However, that's only the tip of the iceberg. Although we have had many technical 10 star fcs, mrekk is the first player to have ever achieve the 10 star difficulty perfect full combo medal without a touch device.
+However, that's only the tip of the iceberg. Although we have had many technical 10-star FCs, mrekk is the first player to ever achieve the 10-star Full Combo medal without using a touch device.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u5RLfYX_KCw" frameborder="0" allowfullscreen></iframe>
 
 ### Notable osu!taiko plays of the month
 
-Taiko is well known for its high skill ceiling, with many top players clearing harder and harder songs over the years. This month, we are showing off 2 extremely difficult clears, both of which are impressive in their own ways.
+osu!taiko is well known for its high skill ceiling, with many top players clearing harder and harder songs as the years go by. This month, we are showing off 2 extremely difficult clears, both impressive in their own ways.
 
-This first play, set by [4_4](https://osu.ppy.sh/users/1152851), is a true example of showing just how far the skill (and stamina!) ceiling can be pushed in this game. The song is a 45-minute compilation of Konpaku Seriels famous "Angel" set of difficulties on their maps, known for pushing difficulty far beyond many ranked maps at the moment. [This map](https://osu.ppy.sh/beatmapsets/772050#taiko/1623018) features some of the hardest gameplay currently found in Taiko. Some highlights for this map include brutal speed and stream sections reaching up to 400bpm, which are still considered near impossible for players of any rank, and other difficult SV and tech sections that can put anybodies patience to the test. The play is just as impressive as it sounds, passing with much HP to spare and also with 91.80%. Enough talking though, please check out this very (long play) below!
+This first play, set by [4_4](https://osu.ppy.sh/users/1152851), is a true example of showing just how far the skill (and stamina!) ceiling can be pushed in this game. The song is a 45-minute compilation of Konpaku Seriels famous "Angel" set of difficulties on their maps, known for pushing difficulty far beyond many ranked maps at the moment. [This map](https://osu.ppy.sh/beatmapsets/772050#taiko/1623018) features some of the hardest gameplay currently found in osu!taiko.
+
+Some highlights for this map include brutal speed and stream sections reaching up to 400 BPM, which are still considered near impossible for players of any rank, and other difficult SV and tech sections that can put anybodies patience to the test. The play is just as impressive as it sounds, passing with much HP to spare and also with 91.80%. Enough talking though, please check out this very (long play) below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SBQ6rvzJmiM" frameborder="0" allowfullscreen> </iframe>
 
-Another play that excells at showing just how far this game can be pushed is [applerss's](https://osu.ppy.sh/users/983349/taiko) NC clear on [Scarlet Keisatsu no Ghetto Patrol 24-ji](https://osu.ppy.sh/beatmapsets/981267#taiko/2053465), an already speedy map brought to its absolute limit with the speed modifier. Although the length of this map is only about a minute long, this map is still nothing to scoff at, coming in at an insane 480bpm and a star rating of 9.95*. With this play applerss once again proves to the community that he is the undesputed god in speed, please check out this record-breaking play out below!
+Another play that excells at showing just how far this game can be pushed is [applerss's](https://osu.ppy.sh/users/983349/taiko) NC clear on [Scarlet Keisatsu no Ghetto Patrol 24-ji](https://osu.ppy.sh/beatmapsets/981267#taiko/2053465), an already speedy map brought to its absolute limit with the speed modifier. Although the length of this map is only about a minute long, this map is still nothing to scoff at, coming in at an insane 480 BPM and a star rating of 9.95. With this play applerss once again proves to the community that he is the undesputed god in speed, please check out this record-breaking play out below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CQPu2D4s3eY" frameborder="0" allowfullscreen></iframe>
 
@@ -127,11 +148,9 @@ Another play that excells at showing just how far this game can be pushed is [ap
 
 [rostld](https://osu.ppy.sh/users/4365562)'s FC on Asymmetry was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, this FC never happened. However, recently, a &euro;50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
 
-<!-- need to have a video of this!--->
+Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. The player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [Crim Nanakusa - dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an AxS 4 tournament match. The nerve control required to set a score as good as this in an environment as competitive as a tournament is truly unbelievable. If you are curious to how the match went check out the [match history](https://osu.ppy.sh/community/matches/106811263), maybe more surprises are unveiled there.
 
-Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. The player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [dialtone](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an AxS 4 tournament match. The nerve control required to set a score as good as this in an environment as competitive as a tournament is truly unbelievable. If you are curious to how the match went check out the [match history](https://osu.ppy.sh/community/matches/106811263), maybe more surprises are unveiled there.
-
-<iframe src="https://player.twitch.tv/?video=1736191743&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?autoplay=false&video=1736191743&t=00h29m02s&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true" height="378" width="100%"></iframe>
 
 ### Notable osu!mania plays of the month
 
@@ -201,7 +220,7 @@ We know it's impossible to agree on which beatmaps are the best and which are no
 
 #### Skin of the Year 2022 results have gone live
 
-After 2 weeks of voting the Skin of the Year the voting has been locked and the results are being tallied! Like the other skinning contests so far, the osu! team have decided to grant badges to the top 3 entries, as well as osu!supporter for the other top entries!
+After 2 weeks of voting the Skin of the Year the voting has been locked and the results are being tallied! Like the other skinning contests so far, the osu! team has decided to grant badges to the top 3 entries, as well as osu!supporter for the other top entries!
 
 If you are interested in the results or just grabbing yourself amazing skins to play with, check out the [contest listing](https://osu.ppy.sh/community/contests/170)!
 

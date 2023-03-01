@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!monthly, February 2023"
-date: 2023-03-01 19:00:00 +0000
+date: 2023-03-02 19:00:00 +0000
 ---
 
 Need a valentine? osu!monthly's got you!

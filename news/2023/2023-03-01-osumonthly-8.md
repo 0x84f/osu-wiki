@@ -54,6 +54,10 @@ With the semantics out of the way, let's dive on in and see what February scroun
 ... more content
 -->
 
+### AxerBot's update
+
+As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by [Hivie](https://osu.ppy.sh/users/14102976) and [Sebola](https://osu.ppy.sh/users/15821708), and which received an important update this month that will please numerous mappers, as it now allows creating and displaying an audio file's spectrogram and fix any potential bloating issues, in addition to all its already existing features such as the ability to view many mapping and playing stats or having rich integration with the [BN website](https://bn.mappersguild.com/). These kinds of bots will only impress us with new features making life easier from day to day, and we hope to see new ones soon!
+
 ### LeFeraille's animation
 
 A wonderful discovery this month is [LeFeraille's YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and it's great and funny animations. In particular this month, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) of 4 minutes featuring Pippi and Default, two friends playing osu! and discussing tournaments, all simmering with references and jokes. So if you have four minutes to dedicate to this little creator, don't hesitate to go and have a look at what he does!
@@ -133,9 +137,9 @@ To honour a handful of Beatmap Nominators who have stood out in the mapping or m
 
 The Community Mentorship Program keeps helping people over the years. So we recently saw a new [announcement news post](https://osu.ppy.sh/home/news/2023-02-06-p-community-mentorshiprogram-spring-2023-signups-now-open) signalling the start of a new cycle. If you want to find a mentor who will help you improve in any field, you have until March 6th to sign up!
 
-#### New NAT additions for osu!std
+#### New NAT additions for osu!
 
-The Nomination Assessment Team has expanded this month in osu!, welcoming two new members: [Dada](https://osu.ppy.sh/users/9119507) and [Yogurtt](https://osu.ppy.sh/users/2649717). We wish them good luck and to stay as long as possible!
+The Nomination Assessment Team has expanded this month in osu!, welcoming two new members: [Dada](https://osu.ppy.sh/users/9119507) and [Yogurtt](https://osu.ppy.sh/users/2649717). We wish them good luck and to stay as long as possible! Oh, and later in the month, [nexusqi](https://osu.ppy.sh/users/13822800) popped up and joined the NAT again.
 
 #### Twin Trials Contest
 
@@ -145,17 +149,24 @@ The [Twin Trials - Beatmapping Phase](https://osu.ppy.sh/home/news/2023-02-01-tw
 
 We know it's impossible to agree on which beatmaps are the best and which are not, but we try to highlight the ones that are most talked about or that can appeal to the most people. However, it's normal to have a different opinion and that's why we invite you to look at all the beatmaps released recently and make your own opinion (They're all great, really, worth it)!
 
+#### Global highlight
+
 - [10 Things I Hate About Ai no Sukima (MIMI vs. Leah Kate)](https://osu.ppy.sh/beatmapsets/1919786) by [Log Off Now](https://osu.ppy.sh/users/4378277) - A beatmap that definitely appealed to players given the playcount and the impressive number of favourites for a short period.
+- [HAWATARI NIOKU CENTI (TV Size) (MAXIMUM THE HORMONE)](https://osu.ppy.sh/beatmapsets/1893971) by [ScubDomino](https://osu.ppy.sh/users/8972308) - A beatmap that stood out by being the first TV size with a difficulty of 10\*. How hard!
+
+#### osu!monthly mapping team's favourites
+
 - [Detonate (G2, Jeris Johnson and Yonaka)](https://osu.ppy.sh/beatmapsets/1923526) by [DeviousPanda](https://osu.ppy.sh/users/4966334) - A beatmap that can appeal to both players and mappers thanks to beautiful concepts and visuals.
-- [HAWATARI NIOKU CENTI (TV Size) (MAXIMUM THE HORMONE)](https://osu.ppy.sh/beatmapsets/1893971) - A beatmap that stood out by being the first TV size with a difficulty of 10\*. How hard!
-- [Tokugawa Cup Noodle Kinshirei (Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO)](https://osu.ppy.sh/beatmapsets/1763088) - A fast and catchy beatmap that convinced us with its visuals representing so well the music giving an interesting set to play.
-- [Ys VIII -SONGS COMPILATION- (Falcom Sound Team jdk)](https://osu.ppy.sh/beatmapsets/1522485) and [Pokemon Diamond & Pearl Music Medley (Dr. Pez)](https://osu.ppy.sh/beatmapsets/1912777) by [SaltyLucario](https://osu.ppy.sh/users/6571670) - Two beatmaps of fifteen and twenty minutes each offering a unique experience. We can only honour the phenomenal work put into these two maps, which are well worth the diversions.
+- [Ys VIII -SONGS COMPILATION- (Falcom Sound Team jdk)](https://osu.ppy.sh/beatmapsets/1522485) and [Pokémon Diamond & Pearl Music Medley (Dr. Pez)](https://osu.ppy.sh/beatmapsets/1912777) by [SaltyLucario](https://osu.ppy.sh/users/6571670) - Two beatmaps of fifteen and twenty minutes each offering a unique experience. We can only honour the phenomenal work put into these two maps, which are well worth the diversions.
+- [Tokugawa Cup Noodle Kinshirei (Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO)](https://osu.ppy.sh/beatmapsets/1763088) by [Cubby](https://osu.ppy.sh/users/10914582) *(video below)* - A fast and catchy beatmap that convinced us with its visuals representing so well the music giving an interesting set to play.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Mq3PfNScjWA" frameborder="0" allowfullscreen></iframe>
 
 ## Skinning recap
 
 ### Skinning news
 
-#### Skin of the Year 2023 results have gone live
+#### Skin of the Year 2022 results have gone live
 
 After 2 weeks of voting the Skin of the Year the voting has been locked and the results are being tallied! Like the other skinning contests so far, the osu! team have decided to grant badges to the top 3 entries, as well as osu!supporter for the other top entries!
 

@@ -88,7 +88,7 @@ Another play that excells at showing just how far this game can be pushed is [ap
 
 ### Notable osu!catch plays of the month
 
-[rostld](https://osu.ppy.sh/users/4365562)'s FC on Asymmetry was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, this FC never happened. However, recently, a €50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
+[rostld](https://osu.ppy.sh/users/4365562)'s FC on Asymmetry was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, this FC never happened. However, recently, a &euro;50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
 
 <!-- need to have a video of this!--->
 
@@ -155,19 +155,27 @@ We know it's impossible to agree on which beatmaps are the best and which are no
 
 ### Skinning news
 
-<!--
-{{DELETE_COMMENT}}
+#### Skin of the Year 2023 results have gone live
 
-#### Skinning news 1
+After 2 weeks of voting the Skin of the Year the voting has been locked and the results are being tallied! Like the other skinning contests so far, the osu! team have decided to grant badges to the top 3 entries, as well as osu!supporter for the other top entries!
 
-... more content
--->
+If you are interested in the results or just grabbing yourself amazing skins to play with, check out the [contest listing](https://osu.ppy.sh/community/contests/170)!
 
-{{CONTENT}}
+#### Website update makes searching for newest skins easier
+
+The osu! website has received an update, more specifically now you can sort threads on the forums by their creation date, which should hopefully make your skin browsing experience much easier.
 
 ### Featured skins of the month
 
-{{CONTENT list and preview video playlist}}
+You know the drill by now. 3 skins hand-picked by the skinship team that were made in the past month will now be presented in glorious fashion for your eyes to feast on.
+
+- [kokopium](https://osu.ppy.sh/community/forums/topics/1728192?n=1) - Heavily inspired by Kokomi from Genshin Impact, this skin takes various elements from the game and inserts them into osu!. If you are a fan of Kokomi, or just Genshin in general, you will surely enjoy this skin.
+- [M I K A](https://osu.ppy.sh/community/forums/topics/1726217?n=1) - Staying on the topic of skins centred around characters from games, this one is made with Mika from Blue Archive being a centrepiece. Anime girls aside, the skin is heavily dominated by soft, pastel-like colours across all menus which are relaxing to look at.
+- [ArtemFauna](https://osu.ppy.sh/community/forums/topics/1716182?n=1) - This skin is based on around the VTuber called [Ceres Fauna](https://www.youtube.com/@CeresFauna), and in line with the character the skin keeps up with their theme by green hues being the dominant colour, as well as the nature theme being present both in gameplay and menus.
+
+Check out all the skins highlighted with this showcase video below:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list= PLAYLIST_ID_HERE" frameborder="0" allowfullscreen></iframe>
 
 ## Did you know?
 

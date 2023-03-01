@@ -169,13 +169,13 @@ The osu! website has received an update, more specifically now you can sort thre
 
 You know the drill by now. 3 skins hand-picked by the skinship team that were made in the past month will now be presented in glorious fashion for your eyes to feast on.
 
-- [kokopium](https://osu.ppy.sh/community/forums/topics/1728192?n=1) - Heavily inspired by Kokomi from Genshin Impact, this skin takes various elements from the game and inserts them into osu!. If you are a fan of Kokomi, or just Genshin in general, you will surely enjoy this skin.
+- [kokopium](https://osu.ppy.sh/community/forums/topics/1728192?n=1) - Heavily themed around Kokomi from Genshin Impact (with a dash of Raiden as well), this skin takes various elements from the game and inserts them into osu!. If you are a fan of Kokomi, or just Genshin in general, you will surely enjoy this skin.
 - [M I K A](https://osu.ppy.sh/community/forums/topics/1726217?n=1) - Staying on the topic of skins centred around characters from games, this one is made with Mika from Blue Archive being a centrepiece. Anime girls aside, the skin is heavily dominated by soft, pastel-like colours across all menus which are relaxing to look at.
 - [ArtemFauna](https://osu.ppy.sh/community/forums/topics/1716182?n=1) - This skin is based on around the VTuber called [Ceres Fauna](https://www.youtube.com/@CeresFauna), and in line with the character the skin keeps up with their theme by green hues being the dominant colour, as well as the nature theme being present both in gameplay and menus.
 
 Check out all the skins highlighted with this showcase video below:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list= PLAYLIST_ID_HERE" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA2Nwtxa4WMpC1mSZ8oExgKkttfwvh_Mr" frameborder="0" allowfullscreen></iframe>
 
 ## Did you know?
 

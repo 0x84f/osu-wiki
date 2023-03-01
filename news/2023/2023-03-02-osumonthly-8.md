@@ -55,7 +55,7 @@ New in the month of February:
 
 Check out the [full changelog complete with images and comparison videos](https://osu.ppy.sh/home/changelog/lazer/2023.207.0).
 
-<!-- below are the changes for the upcoming release that may roll out on March 2. delete and cover in next month's post if it doesn't release in time. -->
+<!-- {{DELETE_COMMENT}} below are the changes for the upcoming release that may roll out on March 2. delete and cover in next month's post if it doesn't release in time. -->
 
 There was also an update that came out *earlier today*. While perhaps technically late for February, we decided to cover it anyway as an exception. Have a look at the latest [osu!(lazer) update video]({{UPDATE_VIDEO_LINK}}) or view the [full changelog]({{CHANGELOG_LINK}}).
 
@@ -68,6 +68,8 @@ There was also an update that came out *earlier today*. While perhaps technicall
 As always, there are a bunch of improvements made each release, but these were probably the few showstoppers you should know about.
 
 By the way, did you know that you can enable storyboards on the main menu in osu!(lazer) with osu!supporter?
+
+<!-- {{DELETE_COMMENT}} make sure below video is uploaded -->
 
 <div align="center">
     <video width="100%" controls>

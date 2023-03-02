@@ -213,6 +213,8 @@ We know it's impossible to agree on which beatmaps are the best and which are no
 
 The osu! website has received an update, more specifically now you can sort threads on the forums by their creation date, which should hopefully make your skin browsing experience much easier.
 
+![](/wiki/shared/news/2023-03-02-osumonthly-8/forum-creation-date-sort.png)
+
 ### Featured skins of the month
 
 You know the drill by now. 3 skins hand-picked by the skinship team that were made in the past month will now be presented in glorious fashion for your eyes to feast on.

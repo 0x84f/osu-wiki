@@ -16,17 +16,16 @@ With the semantics out of the way, let's dive on in and see what February scroun
 
 ## Table of contents
 
-- [Table of contents](#table-of-contents)
 - [What's new in osu!(lazer)](#what's-new-in-osu!(lazer))
 - [Community recap](#community-recap)
+  - [Community news](#community-news)
   - [Notable osu! plays of the month](#notable-osu!-plays-of-the-month)
   - [Notable osu!taiko plays of the month](#notable-osu!taiko-plays-of-the-month)
   - [Notable osu!catch plays of the month](#notable-osu!catch-plays-of-the-month)
   - [Notable osu!mania plays of the month](#notable-osu!mania-plays-of-the-month)
 - [Mapping recap](#mapping-recap)
-  - [Mapping highlight](#mapping-highlight)
-  - [Mapper highlight](#mapper-highlight)
   - [Mapping around the community](#mapping-around-the-community)
+  - [Mapping highlight](#mapping-highlight)
 - [Skinning recap](#skinning-recap)
   - [Skinning news](#skinning-news)
   - [Featured skins of the month](#featured-skins-of-the-month)
@@ -76,15 +75,9 @@ If you're curious, that was [Kawa](https://osu.ppy.sh/users/4588894)'s storyboar
 
 ## Community recap
 
-<!--
-{{DELETE_COMMENT}}
+### Community news
 
-### Community event 1
-
-... more content
--->
-
-### osu! community meeting
+#### osu! community meeting
 
 Another one of those [osu! community meetings](/wiki/Community/osu!_community_meetings) happened last month, almost a year since the last one. It was [announced on Twitter by peppy](https://twitter.com/ppy/status/1621374579901075459) to be held as a panel of experienced people in various community positions, including some top players, tournament organisers and people involved in osu! development.
 
@@ -102,13 +95,13 @@ View the [summary document](https://docs.google.com/document/d/13cMCrQN4vvaQFA59
 
 More meetings to make decisions about game mechanics in osu!(lazer) are expected. Follow [@ppy on Twitter](https://twitter.com/ppy) for updates.
 
-### AxerBot's update
+#### AxerBot's update
 
 As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by [Hivie](https://osu.ppy.sh/users/14102976) and [Sebola](https://osu.ppy.sh/users/15821708), and which received an important update this month that will please numerous mappers
 
 The bot now allows creating and displaying an audio file's spectrogram and fix any potential bloating issues, in addition to all its already existing features such as the ability to view many mapping and playing stats or having rich integration with the [BN website](https://bn.mappersguild.com/). These kinds of bots will only impress us with new features making life easier from day to day, and we hope to see new ones soon!
 
-### LeFeraille's osu! animation
+#### LeFeraille's osu! animation
 
 A wonderful discovery this month is [LeFeraille's YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and its amazing and funny animations. This month in particular, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) features Pippi and Default, two friends playing osu! and discussing tournaments while throwing references and jokes left and right. If you have four minutes to dedicate to this little creator, don't hesitate to go and have a look!
 
@@ -134,77 +127,81 @@ However, that's only the tip of the iceberg. Although we have had many technical
 
 osu!taiko is well known for its high skill ceiling, with many top players clearing harder and harder songs as the years go by. This month, we are showing off 2 extremely difficult clears, both impressive in their own ways.
 
-This first play, set by [4_4](https://osu.ppy.sh/users/1152851), is a true example of showing just how far the skill (and stamina!) ceiling can be pushed in this game. The song is a 45-minute compilation of Konpaku Seriels famous "Angel" set of difficulties on their maps, known for pushing difficulty far beyond many ranked maps at the moment. [This map](https://osu.ppy.sh/beatmapsets/772050#taiko/1623018) features some of the hardest gameplay currently found in osu!taiko.
+This first play, set by [4_4](https://osu.ppy.sh/users/1152851), is a true example of showing just how far the skill (and stamina!) ceiling can be pushed in this game. The song is a 45-minute compilation of Konpaku Seriels famous "Angel" set of difficulties on their maps, known for pushing difficulty far beyond many Ranked maps at the moment. [This map](https://osu.ppy.sh/beatmapsets/772050#taiko/1623018) features some of the hardest gameplay currently found in osu!taiko.
 
 Some highlights for this map include brutal speed and stream sections reaching up to 400 BPM, which are still considered near impossible for players of any rank, and other difficult SV and tech sections that can put anybodies patience to the test. The play is just as impressive as it sounds, passing with much HP to spare and also with 91.80%. Enough talking though, please check out this very (long play) below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SBQ6rvzJmiM" frameborder="0" allowfullscreen> </iframe>
 
-Another play that excells at showing just how far this game can be pushed is [applerss's](https://osu.ppy.sh/users/983349/taiko) NC clear on [Scarlet Keisatsu no Ghetto Patrol 24-ji](https://osu.ppy.sh/beatmapsets/981267#taiko/2053465), an already speedy map brought to its absolute limit with the speed modifier. Although the length of this map is only about a minute long, this map is still nothing to scoff at, coming in at an insane 480 BPM and a star rating of 9.95. With this play applerss once again proves to the community that he is the undesputed god in speed, please check out this record-breaking play out below!
+Another play that excells at showing just how far this game can be pushed is [applerss](https://osu.ppy.sh/users/983349/taiko)'s [NC clear](https://osu.ppy.sh/scores/taiko/177446018) on [IOSYS - Scarlet Keisatsu no Ghetto Patrol 24-ji](https://osu.ppy.sh/beatmapsets/981267#taiko/2053465), an already speedy map brought to its absolute limit with the speed modifier. Although this map is only about a minute long, it's still nothing to scoff at, coming in at an insane 480 BPM and a star rating of 9.95. With this play applerss once again proves to the community that he is the undesputed god in speed, so please check out this record-breaking play out below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CQPu2D4s3eY" frameborder="0" allowfullscreen></iframe>
 
 ### Notable osu!catch plays of the month
 
-[rostld](https://osu.ppy.sh/users/4365562)'s FC on Asymmetry was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, this FC never happened. However, recently, a &euro;50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
+[rostld](https://osu.ppy.sh/users/4365562)'s [SS](https://osu.ppy.sh/scores/fruits/211566395) on [Reol - Asymmetry](https://osu.ppy.sh/beatmapsets/310499#fruits/698249) was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, an FC never happened. However, recently, a €50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
 
-Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. The player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [Crim Nanakusa - dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an AxS 4 tournament match. The nerve control required to set a score as good as this in an environment as competitive as a tournament is truly unbelievable. If you are curious to how the match went check out the [match history](https://osu.ppy.sh/community/matches/106811263), maybe more surprises are unveiled there.
+---
+
+Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. Top player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [Crim Nanakusa - dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an AxS 4 tournament match. The nerve control required to set a score as good as this in an environment as competitive as this is truly unbelievable. If you are curious about how the match went down, check out the [match history](https://osu.ppy.sh/community/matches/106811263) or the VOD below.
 
 <iframe src="https://player.twitch.tv/?autoplay=false&video=1736191743&t=00h29m02s&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true" height="378" width="100%"></iframe>
 
 ### Notable osu!mania plays of the month
 
-Much stuff has happened in osu!mania in the last month, but here are some of the most exceptional highlights:
+Much has happened in osu!mania last month, but here are some of the most exceptional highlights:
 
-Back in early 2019, one of the most legendary scores in 4k was set by [wonder5193](https://osu.ppy.sh/users/8474029) — an [SS on the top difficulty in AiAe](https://www.youtube.com/watch?v=bmlDSgNBAhM). This has stood unchallenged at the top of the leaderboard for 4 years... until now. This February [Myuka](https://osu.ppy.sh/users/10072733) popped off and grabbed the #1 on the leaderboard — even more impressively, he did it through sheer force of ratio as he missed the 100% by 3 200s. How can someone achieve such level of precision over the relentless quadstreams and longjacks? See for yourself:
+Back in early 2019, one of the most legendary scores in 4K was set by [wonder5193](https://osu.ppy.sh/users/8474029) — an [SS](https://www.youtube.com/watch?v=bmlDSgNBAhM) on the top difficulty in [Yuyoyuppe - AiAe](https://osu.ppy.sh/beatmapsets/174381#mania/421066). This has stood unchallenged at the top of the leaderboard for 4 years... until now. This February [Myuka](https://osu.ppy.sh/users/10072733) popped off and grabbed the #1 on the leaderboard — even more impressively, he did it through sheer force of ratio as he missed the 100% by 3 200s. How can someone achieve such level of precision over the relentless quadstreams and longjacks? See for yourself:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0ik42pbJaCU" frameborder="0" allowfullscreen></iframe>
 
-This start of year has been spectacular for difficult maps in the ranked section, both in 4k and 7k — but above all of them stands [tyrcs' BEYOND](https://osu.ppy.sh/beatmapsets/1873425#mania/3855004). This is without a doubt the new hardest ranked mania map, replacing [STRONG 280](https://osu.ppy.sh/beatmapsets/1741321#mania/3559824), also by [tyrcs](https://osu.ppy.sh/users/13026904) (what a guy). With only 7 passes after a month, the 276 BPM unrelentingly dense chordstreams of the top difficulty are a challenge unplayable by (almost) anyone, resulting in a short leaderboard topped by none other than [- Kura -](https://osu.ppy.sh/users/11420405), who achieved an insane 810k S rank on this behemoth. Just watch below, but don't expect to understand much:
+This start of year has been spectacular for difficult maps in the Ranked section, both in 4K and 7K — but above all of them stands [tyrcs](https://osu.ppy.sh/users/13026904)'s map of [Lime - BEYOND](https://osu.ppy.sh/beatmapsets/1873425#mania/3855004). This is without a doubt the new hardest Ranked osu!mania map, replacing [katagiri - STRONG 280](https://osu.ppy.sh/beatmapsets/1741321#mania/3559824), also by tyrcs (what a guy).
+
+With only 7 passes after a month, the unrelentingly dense 276 BPM chordstreams of the top difficulty are a challenge unplayable for (almost) anyone, resulting in a short leaderboard topped by none other than currently reigning osu!mania 7K Champion [- Kura -](https://osu.ppy.sh/users/11420405), who achieved an insane [810k S rank](https://osu.ppy.sh/scores/mania/526911310) on this behemoth. Just watch below, but don't expect to understand much:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GHKBgsWN-lI" frameborder="0" allowfullscreen></iframe>
 
-Not only that, but [- Kura -](https://osu.ppy.sh/users/11420405) also achieved the new mania pp record, getting [1474pp on Last Wish](https://osu.ppy.sh/scores/mania/527179450) — and he did it mere minutes after a historic win over South Korea in the MWC Semifinals. Truly extraterrestrial.
+It doesn't stop there, because [- Kura -](https://osu.ppy.sh/users/11420405) also achieved the new osu!mania pp record, [getting 1474 pp](https://osu.ppy.sh/scores/mania/527179450) on [Kry.exe feat. Ice - Last Wish](https://osu.ppy.sh/beatmapsets/1866317#mania/3838922) — and he did it mere minutes after a historic win over South Korea in the MWC Semifinals. Truly extraterrestrial.
 
-Much more has happened in this short month, but just to shoutout a couple more plays:
+Much more has happened in this short month, but just to shout out a couple more plays:
 
-- [cheewee10](https://osu.ppy.sh/users/4477497) obtained a [992k FC on Leeju's SYSTEM ERROR](https://osu.ppy.sh/scores/mania/527961436), the controversially ranked 10\* whose original version served as the MWC Semifinals Tiebreaker.
-- [CrewK](https://osu.ppy.sh/users/11488604) achieved a mad [997k SS on Ciel's true DJ MAG](https://osu.ppy.sh/scores/mania/529143933), another instance of him absolutely destroying one of the hardest SV charts in the game. This one is worth seeing, even if you don't follow mania — you can find the video from his perspective [here]( PLACEHOLDER as he'll surely upload it very soon ). Special attention to the **extra special** skin!
+- [cheewee10](https://osu.ppy.sh/users/4477497) obtained a [992k FC](https://osu.ppy.sh/scores/mania/527961436) on [Leeju](https://osu.ppy.sh/users/18219603)'s map of [Laur - SYSTEM ERROR](https://osu.ppy.sh/beatmapsets/1931476#mania/4001513), the Ranked 10\* whose original version served as the [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K#semifinals) Semifinals tiebreaker.
+- [CrewK](https://osu.ppy.sh/users/11488604) achieved a mad [997k SS](https://osu.ppy.sh/scores/mania/529143933) on [Ciel](https://osu.ppy.sh/users/1455309)'s map of [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix)](https://osu.ppy.sh/beatmapsets/1569250#mania/3204545), another instance of him absolutely destroying one of the hardest SV charts in the game. This one is worth seeing even if you don't follow osu!mania — go have a look at the [video from his perspective](https://www.youtube.com/watch?v=xop2TWAAxPk) with special attention to the **extra special** skin!
 
-## Mapping Recap
+## Mapping recap
 
-### Mapping News
+### Mapping around the community
 
-#### Community Choice 2022: Results
+#### Community Choice 2022 results out
 
 Like every year, the Community Choice is held to reveal the beatmaps released this year and preferred by players and mappers in all modes. It's never too late to take a look at the [announcement news post](https://osu.ppy.sh/home/news/2023-02-12-community-choice-2022-results), so don't hesitate!
 
-#### Community Contributors 2022: Elite Nominators
+#### New Elite Nominators in Community Contributors 2022
 
-To honour a handful of Beatmap Nominators who have stood out in the mapping or modding community, the [Community Contributors 2022](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022) was held, naming fourteen new Elites Nominators who we definitely recommend you check out.
+To honour a handful of Beatmap Nominators who have stood out in the mapping or modding community, the [Community Contributors 2022](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022) were announced, naming fourteen new Elite Nominators who we definitely recommend you check out.
 
 #### Community Mentorship Program Spring 2023
 
-The Community Mentorship Program keeps helping people over the years. So we recently saw a new [announcement news post](https://osu.ppy.sh/home/news/2023-02-06-p-community-mentorshiprogram-spring-2023-signups-now-open) signalling the start of a new cycle. If you want to find a mentor who will help you improve in any field, you have until March 6th to sign up!
+The Community Mentorship Program keeps helping people over the years and this year is no exception, with the [announcement news post](https://osu.ppy.sh/home/news/2023-02-06-p-community-mentorshiprogram-spring-2023-signups-now-open) signalling the start of a new cycle. If you want to find a mentor to help you improve in any field, you have until March 6th to sign up!
 
 #### Twin Trials Contest
 
 The [Twin Trials - Beatmapping Phase](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase) announced in early February is accepting beatmap submissions until March 15th, so if you want to participate, it's better late than never, but don't waste any more time!
 
-### Mappings Highlight
+### Mapping highlight
 
-We know it's impossible to agree on which beatmaps are the best and which are not, but we try to highlight the ones that are most talked about or that can appeal to the most people. However, it's normal to have a different opinion and that's why we invite you to look at all the beatmaps released recently and make your own opinion (They're all great, really, worth it)!
+We know it's impossible to agree on which beatmaps are the best and which are not, but we try to highlight the ones that are most talked about or that can appeal to the most people. However, it's normal to have a different opinion and that's why we invite you to look at all the beatmaps released recently and make your own opinion. (They're all great, really!)
 
 #### Global highlight
 
-- [10 Things I Hate About Ai no Sukima (MIMI vs. Leah Kate)](https://osu.ppy.sh/beatmapsets/1919786) by [Log Off Now](https://osu.ppy.sh/users/4378277) - A beatmap that definitely appealed to players given the playcount and the impressive number of favourites for a short period.
-- [HAWATARI NIOKU CENTI (TV Size) (MAXIMUM THE HORMONE)](https://osu.ppy.sh/beatmapsets/1893971) by [ScubDomino](https://osu.ppy.sh/users/8972308) - A beatmap that stood out by being the first TV size with a difficulty of 10\*. How hard!
+- [MIMI vs. Leah Kate - 10 Things I Hate About Ai no Sukima](https://osu.ppy.sh/beatmapsets/1919786) mapped by [Log Off Now](https://osu.ppy.sh/users/4378277) - A beatmap that definitely appealed to players given the playcount and the impressive number of favourites for a short period.
+- [MAXIMUM THE HORMONE - HAWATARI NIOKU CENTI (TV Size)](https://osu.ppy.sh/beatmapsets/1893971) mapped by [ScubDomino](https://osu.ppy.sh/users/8972308) - A beatmap that stood out by being the first TV size with a difficulty of 10\*. How hard!
 
 #### osu!monthly mapping team's favourites
 
-- [Detonate (G2, Jeris Johnson and Yonaka)](https://osu.ppy.sh/beatmapsets/1923526) by [DeviousPanda](https://osu.ppy.sh/users/4966334) - A beatmap that can appeal to both players and mappers thanks to beautiful concepts and visuals.
-- [Ys VIII -SONGS COMPILATION- (Falcom Sound Team jdk)](https://osu.ppy.sh/beatmapsets/1522485) and [Pokémon Diamond & Pearl Music Medley (Dr. Pez)](https://osu.ppy.sh/beatmapsets/1912777) by [SaltyLucario](https://osu.ppy.sh/users/6571670) - Two beatmaps of fifteen and twenty minutes each offering a unique experience. We can only honour the phenomenal work put into these two maps, which are well worth the diversions.
-- [Tokugawa Cup Noodle Kinshirei (Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO)](https://osu.ppy.sh/beatmapsets/1763088) by [Cubby](https://osu.ppy.sh/users/10914582) *(video below)* - A fast and catchy beatmap that convinced us with its visuals representing so well the music giving an interesting set to play.
+- [G2, Jeris Johnson and Yonaka - Detonate](https://osu.ppy.sh/beatmapsets/1923526) mapped by [DeviousPanda](https://osu.ppy.sh/users/4966334) - A beatmap that can appeal to both players and mappers thanks to beautiful concepts and visuals.
+- [Falcom Sound Team jdk - Ys VIII -SONGS COMPILATION-](https://osu.ppy.sh/beatmapsets/1522485) and [Dr. Pez - Pokémon Diamond & Pearl Music Medley](https://osu.ppy.sh/beatmapsets/1912777) mapped by [SaltyLucario](https://osu.ppy.sh/users/6571670) - Two beatmaps, both 15:20 in length and each offering a unique experience. We can only honour the phenomenal work put into them.
+- [Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO - Tokugawa Cup Noodle Kinshirei](https://osu.ppy.sh/beatmapsets/1763088) by [Cubby](https://osu.ppy.sh/users/10914582) - A fast and catchy beatmap that convinced us with its visuals representing well the music extremely well, giving way for an overall interesting set. Check out the **video of this map below**!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Mq3PfNScjWA" frameborder="0" allowfullscreen></iframe>
 
@@ -214,9 +211,11 @@ We know it's impossible to agree on which beatmaps are the best and which are no
 
 #### Skin of the Year 2022 results have gone live
 
-After 2 weeks of voting the Skin of the Year the voting has been locked and the results are being tallied! Like the other skinning contests so far, the osu! team has decided to grant badges to the top 3 entries, as well as osu!supporter for the other top entries!
+After 2 weeks, the Skin of the Year voting has been locked and the results are being tallied! Like the other skinning contests so far, the osu! team has decided to grant badges to the top 3 entries, as well as osu!supporter for the other top entries.
 
-If you are interested in the results or just grabbing yourself amazing skins to play with, check out the [contest listing](https://osu.ppy.sh/community/contests/170)!
+If you are interested in the results or just grabbing yourself amazing skins to play with, check out the [contest listing](https://osu.ppy.sh/community/contests/170).
+
+You may expect more news about this very soon!
 
 #### Website update makes searching for newest skins easier
 
@@ -226,9 +225,9 @@ The osu! website has received an update, more specifically now you can sort thre
 
 You know the drill by now. 3 skins hand-picked by the skinship team that were made in the past month will now be presented in glorious fashion for your eyes to feast on.
 
-- [kokopium](https://osu.ppy.sh/community/forums/topics/1728192?n=1) - Heavily themed around Kokomi from Genshin Impact (with a dash of Raiden as well), this skin takes various elements from the game and inserts them into osu!. If you are a fan of Kokomi, or just Genshin in general, you will surely enjoy this skin.
-- [M I K A](https://osu.ppy.sh/community/forums/topics/1726217?n=1) - Staying on the topic of skins centred around characters from games, this one is made with Mika from Blue Archive being a centrepiece. Anime girls aside, the skin is heavily dominated by soft, pastel-like colours across all menus which are relaxing to look at.
-- [ArtemFauna](https://osu.ppy.sh/community/forums/topics/1716182?n=1) - This skin is based on around the VTuber called [Ceres Fauna](https://www.youtube.com/@CeresFauna), and in line with the character the skin keeps up with their theme by green hues being the dominant colour, as well as the nature theme being present both in gameplay and menus.
+- [M I K A](https://osu.ppy.sh/community/forums/topics/1726217?n=1) - Staying on the topic of skins centred around characters from games, this one is made with Mika from *Blue Archive* being a centrepiece. Anime girls aside, the skin is heavily dominated by soft, pastel-like colours across all menus which are relaxing to look at.
+- [ArtemFauna](https://osu.ppy.sh/community/forums/topics/1716182?n=1) - This skin is based on VTuber [Ceres Fauna](https://www.youtube.com/@CeresFauna), and is in line with the theme of the character in question using green hues as the dominant colour, as well as the general nature theme being present both in gameplay and menus.
+- [kokopium](https://osu.ppy.sh/community/forums/topics/1728192?n=1) - Heavily themed around Kokomi from *Genshin Impact* (with a dash of Raiden as well), this skin takes various elements from the game and inserts them into osu!. If you are a fan of Kokomi, or just *Genshin Impact* in general, you will surely enjoy this skin.
 
 Check out all the skins highlighted with this showcase video below:
 
@@ -236,7 +235,7 @@ Check out all the skins highlighted with this showcase video below:
 
 ## Did you know?
 
-In the earliest osu! days, a separate program was used to update osu! called "osume". Alongside the fact you downloaded updates from there, skins that were deemed finished and of good quality were also added to it, making them available to download via the utility.
+In the earliest osu! days, a separate program was used to update osu! called "osume". Besides its function of updating the game, skins that were deemed finished and of good quality were also made downloadable straight through the updater.
 
 ![](/wiki/shared/news/2023-03-02-osumonthly-8/did-you-know-feb23.png)
 
@@ -254,6 +253,6 @@ Good luck to everyone, and as always there's a month of osu!supporter up for gra
 
 ## End word
 
-In keeping tradition with February being the month of love, we hope that you *loved* this edition of osu!monthly. As usual, if the content is not what you want to see or if you would like to contribute in any way possible, please visit the [osu!dev Discord server](https://discord.com/invite/ppy) or contact any of the members of the osu!monthly team. Until next time!
+We hope that you *loved* this edition of osu!monthly. As usual, if the content is not what you want to see or if you would like to contribute in any way possible, please visit the [osu!dev Discord server](https://discord.com/invite/ppy) or contact any of the members of the [osu!monthly team](/wiki/People/osu!monthly_team). Until next time!
 
 —osu!monthly team

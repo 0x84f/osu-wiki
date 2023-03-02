@@ -189,10 +189,6 @@ To honour a handful of Beatmap Nominators who have stood out in the mapping or m
 
 The Community Mentorship Program keeps helping people over the years. So we recently saw a new [announcement news post](https://osu.ppy.sh/home/news/2023-02-06-p-community-mentorshiprogram-spring-2023-signups-now-open) signalling the start of a new cycle. If you want to find a mentor who will help you improve in any field, you have until March 6th to sign up!
 
-#### New NAT additions for osu!
-
-The Nomination Assessment Team has expanded this month in osu!, welcoming two new members: [Dada](https://osu.ppy.sh/users/9119507) and [Yogurtt](https://osu.ppy.sh/users/2649717). We wish them good luck and to stay as long as possible! Oh, and later in the month, [nexusqi](https://osu.ppy.sh/users/13822800) popped up and joined the NAT again.
-
 #### Twin Trials Contest
 
 The [Twin Trials - Beatmapping Phase](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase) announced in early February is accepting beatmap submissions until March 15th, so if you want to participate, it's better late than never, but don't waste any more time!

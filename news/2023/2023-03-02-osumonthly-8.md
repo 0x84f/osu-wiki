@@ -174,7 +174,7 @@ Much more has happened in this short month, but just to shout out a couple more 
 
 #### Community Choice 2022 results out
 
-Like every year, the Community Choice is held to reveal the beatmaps released this year and preferred by players and mappers in all modes. It's never too late to take a look at the [announcement news post](https://osu.ppy.sh/home/news/2023-02-12-community-choice-2022-results), so don't hesitate!
+Like every year, the Community Choice was held to reveal the beatmaps released last year that were preferred by players and mappers in all modes. It's never too late to take a look at the [announcement news post](https://osu.ppy.sh/home/news/2023-02-12-community-choice-2022-results), so don't hesitate!
 
 #### New Elite Nominators in Community Contributors 2022
 

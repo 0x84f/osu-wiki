@@ -249,7 +249,8 @@ Good luck to everyone, and as always there's a month of osu!supporter up for gra
 
 ## Things to look out for in March
 
-{{CONTENT list}}
+- [Skin of the Year 2022](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) results coming soon - Now that you have voted, we just have to wait for the results to be released and to see what you voted to be the best skins of 2022.
+- [osu!taiko World Cup 2023](/wiki/Tournaments/TWC/2023) to begin on March 18 - Registrations ended *today*, which means soon we'll witness the sparks of a new fierce competition!
 
 ## End word
 

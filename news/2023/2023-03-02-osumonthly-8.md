@@ -209,14 +209,6 @@ We know it's impossible to agree on which beatmaps are the best and which are no
 
 ### Skinning news
 
-#### Skin of the Year 2022 results have gone live
-
-After 2 weeks, the Skin of the Year voting has been locked and the results are being tallied! Like the other skinning contests so far, the osu! team has decided to grant badges to the top 3 entries, as well as osu!supporter for the other top entries.
-
-If you are interested in the results or just grabbing yourself amazing skins to play with, check out the [contest listing](https://osu.ppy.sh/community/contests/170).
-
-You may expect more news about this very soon!
-
 #### Website update makes searching for newest skins easier
 
 The osu! website has received an update, more specifically now you can sort threads on the forums by their creation date, which should hopefully make your skin browsing experience much easier.
@@ -249,7 +241,7 @@ Good luck to everyone, and as always there's a month of osu!supporter up for gra
 
 ## Things to look out for in March
 
-- [Skin of the Year 2022](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) results coming soon - Now that you have voted, we just have to wait for the results to be released and to see what you voted to be the best skins of 2022.
+- [Skin of the Year 2022](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) results announcement - Now that you have voted, we just have to wait for the results and statistics to be released and to see what you voted to be the best skins of 2022. If you want a reminder of what skins were up for votes, check out the [contest listing](https://osu.ppy.sh/community/contests/170).
 - [osu!taiko World Cup 2023](/wiki/Tournaments/TWC/2023) to begin on March 18 - Registrations ended *today*, which means soon we'll witness the sparks of a new fierce competition!
 
 ## End word

@@ -32,7 +32,7 @@ With the semantics out of the way, let's dive on in and see what February scroun
   - [Featured skins of the month](#featured-skins-of-the-month)
 - [Did you know?](#did-you-know?)
 - [Monthly community quiz](#monthly-community-quiz)
-- [Things to look out for in {{MONTH}}](#things-to-look-out-for-in-march)
+- [Things to look out for in March](#things-to-look-out-for-in-march)
 - [End word](#end-word)
 
 ## What's new in osu!(lazer)
@@ -156,22 +156,20 @@ Most of the greatest scores in the game happen in singleplayer, where a player c
 
 Much stuff has happened in osu!mania in the last month, but here are some of the most exceptional highlights:
 
-· Back in early 2019, one of the most legendary scores in 4k was set by [wonder5193](https://osu.ppy.sh/users/8474029) - an [SS on the top difficulty in AiAe](https://www.youtube.com/watch?v=bmlDSgNBAhM). This has stood unchallenged at the top of the leaderboard for 4 years... until now. This February [Myuka](https://osu.ppy.sh/users/10072733) popped off and grabbed the #1 on the leaderboard - even more impressively, he did it through sheer force of ratio as he missed the 100% by 3 200s. How can someone achieve such level of precision over the relentless quadstreams and longjacks? See for yourself:
+Back in early 2019, one of the most legendary scores in 4k was set by [wonder5193](https://osu.ppy.sh/users/8474029) — an [SS on the top difficulty in AiAe](https://www.youtube.com/watch?v=bmlDSgNBAhM). This has stood unchallenged at the top of the leaderboard for 4 years... until now. This February [Myuka](https://osu.ppy.sh/users/10072733) popped off and grabbed the #1 on the leaderboard — even more impressively, he did it through sheer force of ratio as he missed the 100% by 3 200s. How can someone achieve such level of precision over the relentless quadstreams and longjacks? See for yourself:
 
-<iframe width="100%" height="315" src="https://www.youtube
-com/embed/0ik42pbJaCU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0ik42pbJaCU" frameborder="0" allowfullscreen></iframe>
 
-· This start of year has been spectacular for difficult maps in the ranked section, both in 4k and 7k - but above all of them stands [tyrcs' BEYOND](https://osu.ppy.sh/beatmapsets/1873425#mania/3855004). This is without a doubt the new hardest ranked mania map, replacing [STRONG 280](https://osu.ppy.sh/beatmapsets/1741321#mania/3559824), also by [tyrcs](https://osu.ppy.sh/users/13026904) (what a guy). With only 7 passes after a month, the 276 BPM unrelentingly dense chordstreams of the top difficulty are a challenge unplayable by (almost) anyone, resulting in a short leaderboard topped by none other than [- Kura -](https://osu.ppy.sh/users/11420405), who achieved an insane 810k S rank on this behemoth. Just watch below - but don't expect to understand much:
+This start of year has been spectacular for difficult maps in the ranked section, both in 4k and 7k — but above all of them stands [tyrcs' BEYOND](https://osu.ppy.sh/beatmapsets/1873425#mania/3855004). This is without a doubt the new hardest ranked mania map, replacing [STRONG 280](https://osu.ppy.sh/beatmapsets/1741321#mania/3559824), also by [tyrcs](https://osu.ppy.sh/users/13026904) (what a guy). With only 7 passes after a month, the 276 BPM unrelentingly dense chordstreams of the top difficulty are a challenge unplayable by (almost) anyone, resulting in a short leaderboard topped by none other than [- Kura -](https://osu.ppy.sh/users/11420405), who achieved an insane 810k S rank on this behemoth. Just watch below, but don't expect to understand much:
 
-<iframe width="100%" height="315" src="https://www.youtube
-com/embed/GHKBgsWN-lI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GHKBgsWN-lI" frameborder="0" allowfullscreen></iframe>
 
-Not only that, but [- Kura -](https://osu.ppy.sh/users/11420405) also achieved the new mania pp record, getting [1474pp on Last Wish](https://osu.ppy.sh/scores/mania/527179450) - and he did it mere minutes after a historic win over South Korea in the MWC Semifinals. Truly extraterrestrial.
+Not only that, but [- Kura -](https://osu.ppy.sh/users/11420405) also achieved the new mania pp record, getting [1474pp on Last Wish](https://osu.ppy.sh/scores/mania/527179450) — and he did it mere minutes after a historic win over South Korea in the MWC Semifinals. Truly extraterrestrial.
 
 Much more has happened in this short month, but just to shoutout a couple more plays:
 
-· [cheewee10](https://osu.ppy.sh/users/4477497) obtained a [992k FC on Leeju's SYSTEM ERROR](https://osu.ppy.sh/scores/mania/527961436), the controversially ranked 10* whose original version served as the MWC Semifinals Tiebreaker.
-· [CrewK](https://osu.ppy.sh/users/11488604) achieved a mad [997k SS on Ciel's true DJ MAG](https://osu.ppy.sh/scores/mania/529143933), another instance of him absolutely destroying one of the hardest SV charts in the game. This one is worth seeing, even if you don't follow mania - you can find the video from his perspective [here]( PLACEHOLDER as he'll surely upload it very soon ). Special attention to the **extra special** skin!
+- [cheewee10](https://osu.ppy.sh/users/4477497) obtained a [992k FC on Leeju's SYSTEM ERROR](https://osu.ppy.sh/scores/mania/527961436), the controversially ranked 10\* whose original version served as the MWC Semifinals Tiebreaker.
+- [CrewK](https://osu.ppy.sh/users/11488604) achieved a mad [997k SS on Ciel's true DJ MAG](https://osu.ppy.sh/scores/mania/529143933), another instance of him absolutely destroying one of the hardest SV charts in the game. This one is worth seeing, even if you don't follow mania — you can find the video from his perspective [here]( PLACEHOLDER as he'll surely upload it very soon ). Special attention to the **extra special** skin!
 
 ## Mapping Recap
 

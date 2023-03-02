@@ -131,7 +131,7 @@ This first play, set by [4_4](https://osu.ppy.sh/users/1152851), is a true examp
 
 Some highlights for this map include brutal speed and stream sections reaching up to 400 BPM, which are still considered near impossible for players of any rank, and other difficult SV and tech sections that can put anybodies patience to the test. The play is just as impressive as it sounds, passing with much HP to spare and also with 91.80%. Enough talking though, please check out this very (long play) below!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/SBQ6rvzJmiM" frameborder="0" allowfullscreen> </iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SBQ6rvzJmiM" frameborder="0" allowfullscreen></iframe>
 
 Another play that excells at showing just how far this game can be pushed is [applerss](https://osu.ppy.sh/users/983349/taiko)'s [NC clear](https://osu.ppy.sh/scores/taiko/177446018) on [IOSYS - Scarlet Keisatsu no Ghetto Patrol 24-ji](https://osu.ppy.sh/beatmapsets/981267#taiko/2053465), an already speedy map brought to its absolute limit with the speed modifier. Although this map is only about a minute long, it's still nothing to scoff at, coming in at an insane 480 BPM and a star rating of 9.95. With this play applerss once again proves to the community that he is the undesputed god in speed, so please check out this record-breaking play out below!
 
@@ -145,7 +145,7 @@ Another play that excells at showing just how far this game can be pushed is [ap
 
 Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. Top player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [Crim Nanakusa - dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an AxS 4 tournament match. The nerve control required to set a score as good as this in an environment as competitive as this is truly unbelievable. If you are curious about how the match went down, check out the [match history](https://osu.ppy.sh/community/matches/106811263) or the VOD below.
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=1736191743&t=00h29m02s&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true" height="378" width="100%"></iframe>
+<iframe height="378" width="100%" src="https://player.twitch.tv/?autoplay=false&video=1736191743&t=00h29m02s&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true"></iframe>
 
 ### Notable osu!mania plays of the month
 
